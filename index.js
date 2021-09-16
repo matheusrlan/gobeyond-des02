@@ -7,7 +7,8 @@ const comissao = vendas * 15 / 100
 const total = salario + comissao
 
 
-/* exercício 2 */
+/* exercício 2 Fiz de acordo com o que foi falado durante a aula, e da forma que entendi.*/
+
 
 let info = {
     nome : ['joão', 'Marcos','Marcelo', 'Carlos'],
